@@ -14,4 +14,6 @@ and then watch again while working through the problems with him.
   Found it useful to think of the gradient as a vector pointing in the direction of loss. Still confused by back propagation  
   - watched KA videos on [derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-2/v/alternate-form-of-the-derivative)
   - time spent towards goal approx 90 minutes
+  - __Sept 7 20205__ Good day, did not keep strick track of time. But around 2 hours. Got through the start of the karpthay video and felt like I was understanding it
+  - 
   
