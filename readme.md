@@ -15,5 +15,11 @@ and then watch again while working through the problems with him.
   - watched KA videos on [derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-2/v/alternate-form-of-the-derivative)
   - time spent towards goal approx 90 minutes
   - __Sept 7 20205__ Good day, did not keep strick track of time. But around 2 hours. Got through the start of the karpthay video and felt like I was understanding it
-  - 
+  - __Sept 8 2025__ failed to log but a little KA math
+  - __Sept 9 2005__ Failed to log
+  - __Sept 10 2025__  felt tired lots of work did not do any ML
+  - __Sept 12 2025__ made good progress and started implement back propagation and started book [Why Machines Learn](https://www.amazon.com/dp/0593185749?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp)  
+  - __Sept 13 2025__ Finished Chapt 1 of Why Machines Learn, Watched 1 video on Linear Alg from 31Blue1Brown, great progress today  
+    - on the Karpathy leture as well. Got the start of the neural net. I have a long way to go. But I felt like the book with the video really helped me understand
+    - probably two + hours today 
   
