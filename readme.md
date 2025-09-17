@@ -22,4 +22,7 @@ and then watch again while working through the problems with him.
   - __Sept 13 2025__ Finished Chapt 1 of Why Machines Learn, Watched 1 video on Linear Alg from 31Blue1Brown, great progress today  
     - on the Karpathy leture as well. Got the start of the neural net. I have a long way to go. But I felt like the book with the video really helped me understand
     - probably two + hours today 
+  - __Sept 14 2025__ Beer Fest read Why Machines Learn for an hour
+  - __Sept 15 2025__ Beer Fest Read Why Machines Learn for maybe 2 hours
+  - __Sept 16 2025__ Beer Fest. Read Why Machines Learn. Watched 3Brown vid on NN. Continues with Karpathy. 1 hour
   
