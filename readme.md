@@ -25,5 +25,6 @@ and then watch again while working through the problems with him.
   - __Sept 14 2025__ Beer Fest read Why Machines Learn for an hour
   - __Sept 15 2025__ Beer Fest Read Why Machines Learn for maybe 2 hours
   - __Sept 17 2025__ Beer Fest. Read Why Machines Learn. Watched 3Brown vid on NN. Continues with Karpathy. 1 hour
-  - __Sept 18 2025__ 
+  - __Sept 18 2025__ Completed first karpathy video and started Makemore watch 3Blue1Brown on Neural Nets. Started book on sklearn and did start of housing regression.  
+    - Not sure if I should drop that and just do Karpathy first
   
