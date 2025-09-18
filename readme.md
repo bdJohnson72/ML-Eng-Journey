@@ -24,5 +24,6 @@ and then watch again while working through the problems with him.
     - probably two + hours today 
   - __Sept 14 2025__ Beer Fest read Why Machines Learn for an hour
   - __Sept 15 2025__ Beer Fest Read Why Machines Learn for maybe 2 hours
-  - __Sept 16 2025__ Beer Fest. Read Why Machines Learn. Watched 3Brown vid on NN. Continues with Karpathy. 1 hour
+  - __Sept 17 2025__ Beer Fest. Read Why Machines Learn. Watched 3Brown vid on NN. Continues with Karpathy. 1 hour
+  - __Sept 18 2025__ 
   
