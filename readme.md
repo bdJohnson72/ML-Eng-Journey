@@ -25,6 +25,28 @@ and then watch again while working through the problems with him.
   - __Sept 14 2025__ Beer Fest read Why Machines Learn for an hour
   - __Sept 15 2025__ Beer Fest Read Why Machines Learn for maybe 2 hours
   - __Sept 17 2025__ Beer Fest. Read Why Machines Learn. Watched 3Brown vid on NN. Continues with Karpathy. 1 hour
+
+### Lecture 2 [The Spelled Out Intro to Language Modeling](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2&t=12s)  
   - __Sept 18 2025__ Completed first karpathy video and started Makemore watch 3Blue1Brown on Neural Nets. Started book on sklearn and did start of housing regression.  
-    - Not sure if I should drop that and just do Karpathy first
+    - Not sure if I should drop that and just do Karpathy first 
+  - __Sept 19 2025__ worked on Makemore 1.5 hours
+  - __Sept 20 2025__ No progress made
+  - __Sept 21 2025__ Made some progress on MakeMore. But at approx 45 minutes into the video I decided I needed to return  
+     to my old approach of watch the video once and then code along a a second time. approx 2 hours of work 
+## Things To Review from Week 2
+* [Broadcasting rules ](https://docs.pytorch.org/docs/stable/notes/broadcasting.html)
+## [Introduction to Statistical Learning](https://www.statlearning.com/)
+I decided this would be a good companion to Karpathy will try to dedicate 30 minutes to an hour a day to it. 
+__Sept 21 2025__ Did the intro videos on Edx and started reading Chpt 1 in the book 
+
+    
+
+
+
+
+
+
+
+
+         
   
