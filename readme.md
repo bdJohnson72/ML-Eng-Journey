@@ -33,11 +33,12 @@ and then watch again while working through the problems with him.
   - __Sept 20 2025__ No progress made
   - __Sept 21 2025__ Made some progress on MakeMore. But at approx 45 minutes into the video I decided I needed to return  
      to my old approach of watch the video once and then code along a a second time. approx 2 hours of work 
+  - __30 Sep 2025__ This is a catch up post. I have been bad about logging my work the last week. But I workon the KNN algo on DataQuest and have done most of the Data Quest SQL modules. I have also worked on gradient descent study 
 ## Things To Review from Week 2
 * [Broadcasting rules ](https://docs.pytorch.org/docs/stable/notes/broadcasting.html)
-## [Introduction to Statistical Learning](https://www.statlearning.com/)
-I decided this would be a good companion to Karpathy will try to dedicate 30 minutes to an hour a day to it. 
-__Sept 21 2025__ Did the intro videos on Edx and started reading Chpt 1 in the book 
+__Sept 21 2025__ Did the intro videos on Edx and started reading Chpt 1 in the book
+__Sept 22 2025__ Completed first run of Karpathy Make More VIdeo. 1 hour
+
 
     
 
