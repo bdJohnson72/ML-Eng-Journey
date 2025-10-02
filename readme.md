@@ -34,6 +34,7 @@ and then watch again while working through the problems with him.
   - __Sept 21 2025__ Made some progress on MakeMore. But at approx 45 minutes into the video I decided I needed to return  
      to my old approach of watch the video once and then code along a a second time. approx 2 hours of work 
   - __30 Sep 2025__ This is a catch up post. I have been bad about logging my work the last week. But I workon the KNN algo on DataQuest and have done most of the Data Quest SQL modules. I have also worked on gradient descent study 
+  - __2 Oct 2025__ Completed lecture 2  for Karpathy and 30 minutes of SQL training 
 ## Things To Review from Week 2
 * [Broadcasting rules ](https://docs.pytorch.org/docs/stable/notes/broadcasting.html)
 __Sept 21 2025__ Did the intro videos on Edx and started reading Chpt 1 in the book
