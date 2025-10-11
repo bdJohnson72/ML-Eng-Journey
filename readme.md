@@ -42,6 +42,10 @@ and then watch again while working through the problems with him.
 __Sept 21 2025__ Did the intro videos on Edx and started reading Chpt 1 in the book
 __Sept 22 2025__ Completed first run of Karpathy Make More VIdeo. 1 hour
 
+#Geron
+I  have been bad about logging work even if it is getting done. I am going to focus on Geron and a good idea for a work project I have been having. Everything else will be learn as needed. 
+__11 Oct 2025__ Saturday did 2 hours on geron chapt 3. About 30 minutes was review and updating anki cards etc. Happy with progress. 
+
 
     
 
